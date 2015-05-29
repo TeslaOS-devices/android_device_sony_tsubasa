@@ -1,1 +1,1 @@
-add_lunch_combo cm_tsubasa-eng
+add_lunch_combo tesla_tsubasa-eng
